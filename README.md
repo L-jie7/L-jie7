@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning cwork
-- 🤔 I’m looking for help with how to use github and markdown
-- 📫 How to reach me:search my qq email  2108588735
-- 😄 Pronouns: HAPPY
+## 🌱 I’m currently learning cwork
+## 🤔 I’m looking for help with how to use github and markdown
+## 📫 How to reach me:search my qq email  2108588735
+## 😄 Pronouns: HAPPY
 -->
