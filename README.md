@@ -1,12 +1,11 @@
-## Hi there 👋
+# Hi 👋, I'm L-jie7
+软件工程 | 2026级 | 中南民族大学
+> Geek组后端方向学员
 
-<!--
-**L-jie7/L-jie7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 当前学习
+- Git & GitHub 基础操作
+- Markdown 文档编写
+- 后端基础学习
 
-Here are some ideas to get you started:
-
-## 🌱 I’m currently learning cwork
-## 🤔 I’m looking for help with how to use github and markdown
-## 📫 How to reach me:search my qq email  2108588735
-## 😄 Pronouns: HAPPY
--->
+## ✨ 兴趣
+后端开发、计算机基础学习
